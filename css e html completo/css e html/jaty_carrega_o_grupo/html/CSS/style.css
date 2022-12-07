@@ -1,0 +1,195 @@
+
+h1{
+    font-family: 'Archivo', sans-serif;
+    font-family: 'Doppio One', sans-serif;
+    font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    left:50%;
+    top:0.2%;
+    padding: 1%;
+    margin: 1%;
+}
+
+header{border-bottom: 1px solid #5DB2FC;
+flex-direction: column;
+}
+
+.foot{
+    border-top: 1px solid #4b8ec9;
+    border-bottom: 1px solid #4b8ec9;
+    border-right: 1px solid #4b8ec9;
+    border-left: 1px solid #4b8ec9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.botão1{
+    font-family: 'Archivo', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    padding: 10%;
+    margin: 10%;
+    border: 1px solid #A9D6FD;
+}
+
+.botão2{
+    font-family: 'Archivo', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    padding: 6%;
+    margin: 6%;
+    border: 1px solid #A9D6FD;
+}
+
+.texto{
+    font-family: 'Archivo', sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+    margin: 5%;
+    border: 1px solid #8F8F8F;
+}
+
+.texto2{
+    font-family: 'Archivo', sans-serif;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    justify-content: center;
+    padding: 2%;
+    margin: 2%;
+    border: 1px solid #A9D6FD;
+}
+
+.texto3{
+    font-family: 'Archivo', sans-serif;
+    font-size: larger;
+    padding: 2%;
+    margin: 2%;
+}
+
+
+.video{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+    margin: 4%;
+}
+
+.centralizar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+    margin: 5%;
+}
+
+.centro{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 7%;
+    margin-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.imagem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+    margin: 5%;
+}
+
+.logo{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+
+    
+}
+
+.coluna {
+    display: flex;
+    flex-direction: column;
+}
+
+.linha {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#myProgress {
+    width: 100%;
+    background-color: #ddd;
+  }
+  
+#myBar {
+    width: 10%;
+    height: 30px;
+    background-color: #04AA6D;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+  }
+
+.voltar {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+
+}
+
+
+.centro2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.texto5{
+    font-family: 'Archivo', sans-serif;
+    display: flex;
+    flex-direction: row;
+    font-size: larger;
+    justify-content: center;
+    padding: 1%;
+    margin: 1%;
+}
+
+.legenda{
+    font-family: 'Archivo', sans-serif;
+    border-top: 1px solid #4b8ec9;
+    border-bottom: 1px solid #4b8ec9;
+    border-right: 1px solid #4b8ec9;
+    border-left: 1px solid #4b8ec9;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.materia{
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
